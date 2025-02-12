@@ -31,7 +31,7 @@ callback, right after receiving confirmation event from firmware. This
 only required modifying worker to don't unregister on its own if there
 is someone waiting for the event.
 
-Signed-off-by: RafaÅ MiÅecki <zajec5@gmail.com>
+Signed-off-by: Rafał Miłecki <zajec5@gmail.com>
 Signed-off-by: Kalle Valo <kvalo@codeaurora.org>
 ---
 

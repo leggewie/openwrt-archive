@@ -13,7 +13,7 @@ the behaviour is restored.
 
 Cc: stable@vger.kernel.org # v4.5, v4.6, v4.7
 Fixes: 9cd18359d31e ("brcmfmac: Make FWS queueing configurable.")
-Tested-by: Per FÃ¶rlin <per.forlin@gmail.com>
+Tested-by: Per Förlin <per.forlin@gmail.com>
 Reviewed-by: Hante Meuleman <hante.meuleman@broadcom.com>
 Reviewed-by: Pieter-Paul Giesberts <pieter-paul.giesberts@broadcom.com>
 Reviewed-by: Franky Lin <franky.lin@broadcom.com>

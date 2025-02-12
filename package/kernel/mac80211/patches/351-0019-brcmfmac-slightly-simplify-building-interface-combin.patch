@@ -16,7 +16,7 @@ make it simpler:
    before preparing limits).
 3) It modifies mbss code to use i variable just like other combos do.
 
-Signed-off-by: RafaÅ MiÅecki <zajec5@gmail.com>
+Signed-off-by: Rafał Miłecki <zajec5@gmail.com>
 Acked-by: Arend van Spriel <arend.vanspriel@broadcom.com>
 Signed-off-by: Kalle Valo <kvalo@codeaurora.org>
 ---
