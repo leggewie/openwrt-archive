@@ -54,7 +54,7 @@ e.g.
 [ 4495.876924]  [<ffffffff860e2b8f>] ? trace_hardirqs_off_caller+0x1f/0xc0
 
 Signed-off-by: Masami Hiramatsu <mhiramat@kernel.org>
-Acked-by: RafaÅ MiÅecki <rafal@milecki.pl>
+Acked-by: Rafał Miłecki <rafal@milecki.pl>
 Signed-off-by: Kalle Valo <kvalo@codeaurora.org>
 ---
  drivers/net/wireless/broadcom/brcm80211/brcmfmac/core.c | 2 +-

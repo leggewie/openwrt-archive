@@ -12,7 +12,7 @@ case of older firmwares (e.g. 7.35.177.56 for BCM43602 as I tested) this
 will just result in firmware rejecting command and this won't change any
 behavior.
 
-Signed-off-by: RafaÅ MiÅecki <zajec5@gmail.com>
+Signed-off-by: Rafał Miłecki <zajec5@gmail.com>
 Signed-off-by: Kalle Valo <kvalo@codeaurora.org>
 ---
 

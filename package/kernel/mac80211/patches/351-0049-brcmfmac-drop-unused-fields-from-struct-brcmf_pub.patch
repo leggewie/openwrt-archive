@@ -9,7 +9,7 @@ Content-Transfer-Encoding: 8bit
 They seem to be there from the first day. We calculate these values but
 never use them.
 
-Signed-off-by: RafaÅ MiÅecki <rafal@milecki.pl>
+Signed-off-by: Rafał Miłecki <rafal@milecki.pl>
 Signed-off-by: Kalle Valo <kvalo@codeaurora.org>
 ---
  drivers/net/wireless/broadcom/brcm80211/brcmfmac/core.c     | 3 ---

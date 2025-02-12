@@ -16,7 +16,7 @@ Freeing skbs without a proper check was leading to counter not being
 properly decreased. This was triggering a WARNING every time
 brcmf_netdev_wait_pend8021x was called.
 
-Signed-off-by: RafaÅ MiÅecki <rafal@milecki.pl>
+Signed-off-by: Rafał Miłecki <rafal@milecki.pl>
 Acked-by: Arend van Spriel <arend@broadcom.com>
 Cc: stable@vger.kernel.org # 4.5+
 Signed-off-by: Kalle Valo <kvalo@codeaurora.org>

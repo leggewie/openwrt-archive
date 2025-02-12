@@ -17,7 +17,7 @@ firmware problem and incorrect key update. Raising a WARNING however
 wasn't really that necessary, it doesn't point to any driver bug anymore
 and backtrace wasn't much useful.
 
-Signed-off-by: RafaÅ MiÅecki <rafal@milecki.pl>
+Signed-off-by: Rafał Miłecki <rafal@milecki.pl>
 Acked-by: Arend van Spriel <arend.vanspriel@broadcom.com>
 Signed-off-by: Kalle Valo <kvalo@codeaurora.org>
 ---
